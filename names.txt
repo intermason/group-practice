@@ -1,6 +1,4 @@
 == Group Mason - Names List ==
-<<<<<<< HEAD
-Levi Berg
-=======
 Christian Claveria
->>>>>>> 8850cc2166f36b3178d0aa79d6fe996a6dd12193
+Mason Doti
+Levi Berg
